@@ -62,6 +62,7 @@ Computer Science student at Monash University Malaysia
       <strong>Flippy Bit!</strong><br></br>
       Players convert falling hexadecimal values into 8-bit binary by flipping bits (0s and 1s) before the targets reach the bottom. 
       The game features progressive difficulty, real-time scoring and reactive event handling using Functional Reactive Programming (FRP).<br>
+      <a href="https://youtu.be/jqNIfj6AmW8?si=RD0KpHSAhuijmyFX">Video demo</a><br>
       <a href="https://flippy-bit-kappa.vercel.app/">Play here!</a>
       <br><br>
     </td>
