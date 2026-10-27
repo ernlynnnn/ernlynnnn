@@ -1,6 +1,7 @@
 ## Hi, I'm Ern Lynn👋
 Computer Science student at Monash University Malaysia
 
+
 - 📚 Currently exploring Computer Vision, LLMs and Agentic AI
 - 💻 Interested in Software Development, Computer Vision and AI Integration
 - 🏸 Outside of coding, I enjoy playing badminton
@@ -23,7 +24,7 @@ Computer Science student at Monash University Malaysia
 <table>
   <tr>
     <td width="45%">
-      <img src="https://github.com/user-attachments/assets/f7e175b4-2d9d-4ea3-983a-4bf5582aa1f9" width="550" alt="Jigsaw Solver">
+      <img src="https://github.com/user-attachments/assets/4a838a1e-2182-4fa5-9e8a-092b673b6dba" width="1916" height="857" alt="Jigsaw Solver" />
     </td>
     <td>
       <strong>Jigsaw Solver</strong><br><br>
