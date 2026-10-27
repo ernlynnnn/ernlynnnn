@@ -5,7 +5,7 @@ Computer Science student at Monash University Malaysia
 - 📚 Currently exploring Computer Vision, LLMs and Agentic AI
 - 💻 Interested in Software Development, Computer Vision and AI Integration
 - 🏸 Outside of coding, I enjoy playing badminton
-- 🔗 Connect with me on [LinkedIn](www.linkedin.com/in/ernlynn)!
+- 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/ernlynn)!
 <br>
 
 ## 🛠️ Tech Stack
